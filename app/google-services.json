@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "378489030337",
+    "project_id": "apnews-c74fb",
+    "storage_bucket": "apnews-c74fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378489030337:android:8919ba307969db3baab640",
+        "android_client_info": {
+          "package_name": "com.aviral.apnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378489030337-kf640ng43rb9048l89ulr91hubc7nbno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAujsJ9j5FTn4xNaXdfXa_QObLCcc3ucA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378489030337-kf640ng43rb9048l89ulr91hubc7nbno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
